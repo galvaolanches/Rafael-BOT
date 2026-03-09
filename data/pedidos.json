@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1773027935038,
+    "data": "09/03/2026, 00:45:35",
+    "cliente_nome": "𝕽𝖆𝖋𝖆𝖊𝖑 𝕯𝖔𝖗𝖓𝖊𝖑𝖑𝖊𝖘 𝕶𝖊𝖙𝖙𝖞 ⛧",
+    "cliente_numero": "33316665340074@lid",
+    "pedido": "wind banner",
+    "status": "Pronto"
+  },
+  {
+    "id": 1773027952309,
+    "data": "09/03/2026, 00:45:52",
+    "cliente_nome": "𝕽𝖆𝖋𝖆𝖊𝖑 𝕯𝖔𝖗𝖓𝖊𝖑𝖑𝖊𝖘 𝕶𝖊𝖙𝖙𝖞 ⛧",
+    "cliente_numero": "33316665340074@lid",
+    "pedido": "Banner (A partir de R$ 80,00)",
+    "status": "Pronto"
+  },
+  {
+    "id": 1773027962823,
+    "data": "09/03/2026, 00:46:02",
+    "cliente_nome": "𝕽𝖆𝖋𝖆𝖊𝖑 𝕯𝖔𝖗𝖓𝖊𝖑𝖑𝖊𝖘 𝕶𝖊𝖙𝖙𝖞 ⛧",
+    "cliente_numero": "33316665340074@lid",
+    "pedido": "Banner (A partir de R$ 80,00)",
+    "status": "Pronto"
+  },
+  {
+    "id": 1773030781412,
+    "data": "09/03/2026, 01:33:01",
+    "cliente_nome": "Kethlyn",
+    "cliente_numero": "36825200644329@lid",
+    "pedido": "Caneca de chopp",
+    "status": "Pronto"
+  },
+  {
+    "id": 1773033422845,
+    "data": "09/03/2026, 02:17:02",
+    "cliente_nome": "𝕽𝖆𝖋𝖆𝖊𝖑 𝕯𝖔𝖗𝖓𝖊𝖑𝖑𝖊𝖘 𝕶𝖊𝖙𝖙𝖞 ⛧",
+    "cliente_numero": "33316665340074@lid",
+    "pedido": "wind banner",
+    "status": "Pendente"
+  }
+]
